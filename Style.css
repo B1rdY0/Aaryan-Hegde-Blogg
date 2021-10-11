@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+header {
+  background-color: Black;
+  color: yellowgreen;
+  height: 100px;
+  margin: 0;
+  font-family: "Courier New";
+}
+
+header h1 {
+  line-height: 120px;
+  text-align: center;
+  margin: 0;
+  font-family: "Courier New";
+}
+
+main article {
+  background-color: black;
+  padding: 10px;
+  color: yellowgreen;
+  text-align: center;
+  font-family: "Courier New";
+}
+
+main article p {
+  font-size: 21px;
+  line-height: 1.6;
+  color: yellowgreen;
+  text-align: center;
+  font-family: "Courier New";
+}
+
+article2 h1 {
+  color: yellowgreen;
+  text-align: center;
+  font-family: "Courier New";
+}
+
+article2 p {
+  font-size: 20px;
+  line-height: 1.6;
+  color: yellowgreen;
+  background-color: black;
+  margin: 0;
+  text-align: center;
+  font-family: "Courier New";
+}
+
+article3 h2 {
+  color: yellowgreen;
+  text-align: center;
+  font-family: "Courier New";
+}
+
+article3 p {
+  font-size: 20px;
+  line-height: 1.6;
+  color: yellowgreen;
+  background-color: black;
+  margin: 0;
+  text-align: center;
+  font-family: "Courier New";
+}
+
+.img-EU4 {
+  max-width: 10%;
+  height: 100;
+  object-position: top;
+}
